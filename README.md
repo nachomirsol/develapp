@@ -2,7 +2,7 @@
 
 ## Description
 
-Full stack app consist in a developer social network
+Mern stack app about a developer social network
 
 ## Technologies
 
@@ -10,3 +10,13 @@ Full stack app consist in a developer social network
 - Express.js
 - React.js + Redux
 - Node.js
+
+## Dependencies
+
+- express
+- jsonBodyParser
+- Mongoose
+- jsonWebToken
+
+## How to Use it
+Clone the repo
