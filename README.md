@@ -1,5 +1,5 @@
 # Develapp
-
+A social network for developers made with the MERN STACK: React, redux, node, express and Mongo Db
 ## Description
 
 Mern stack app about a developer social network
