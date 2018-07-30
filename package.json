@@ -1,0 +1,33 @@
+{
+  "name": "develapp",
+  "version": "1.0.0",
+  "description": "A social network for developers made with the MERN STACK: React, redux, node, express and Mongo Db ## Description",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nachomirsol/develapp.git"
+  },
+  "author": "Nachal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nachomirsol/develapp/issues"
+  },
+  "homepage": "https://github.com/nachomirsol/develapp#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.2.5",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "validator": "^10.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
