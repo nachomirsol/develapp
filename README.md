@@ -25,4 +25,5 @@ Mern stack app about a developer social network
 
 ## How to Use it
 
-Clone the repo, run the server by typing node server
+Clone the repo, npm install to get node modules. Go to client directory and also type npm install to get node modules for the client.
+Finally type npm run dev to run the app.
